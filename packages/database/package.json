@@ -1,0 +1,13 @@
+
+{
+  "name": "@dentex/database",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "zod": "^3.22.4",
+    "@supabase/ssr": "latest",
+    "@supabase/supabase-js": "latest",
+    "next": "14.0.4"
+  }
+}
